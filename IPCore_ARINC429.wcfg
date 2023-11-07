@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/FatemE/Desktop/New folder/New folder/proje/test_arinc/tst_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="std_logic_1164" />
+            <top_module name="tst" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tst/Out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">valid</obj_property>
+      <obj_property name="ObjectShortName">valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/Rx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Rx</obj_property>
+      <obj_property name="ObjectShortName">Rx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/Clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/data_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">data_in[31:0]</obj_property>
+      <obj_property name="ObjectShortName">data_in[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/Tx" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Tx</obj_property>
+      <obj_property name="ObjectShortName">Tx</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/uut/rst_n" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/uut/encodedOutput_A" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">encodedOutput_A</obj_property>
+      <obj_property name="ObjectShortName">encodedOutput_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/uut/encodedOutput_B" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">encodedOutput_B</obj_property>
+      <obj_property name="ObjectShortName">encodedOutput_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/uut/valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">valid</obj_property>
+      <obj_property name="ObjectShortName">valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst/uut/cnt_r" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">cnt_r[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_r[3:0]</obj_property>
+   </wvobject>
+</wave_config>
