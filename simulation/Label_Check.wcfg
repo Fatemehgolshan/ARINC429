@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/FatemE/Desktop/New folder/New folder/proje/fateme_golshan/testlabel_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testlabel" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/testlabel/Label_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Label_out</obj_property>
+      <obj_property name="ObjectShortName">Label_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testlabel/Clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testlabel/Wr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Wr</obj_property>
+      <obj_property name="ObjectShortName">Wr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testlabel/Rd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Rd</obj_property>
+      <obj_property name="ObjectShortName">Rd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testlabel/Label_adr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Label_adr[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Label_adr[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testlabel/Label_in" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Label_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Label_in[7:0]</obj_property>
+   </wvobject>
+</wave_config>
